@@ -1,0 +1,84 @@
+body {
+    background-color: #5F1189;
+}
+
+img {
+    width: 300px;
+    height: auto;
+}
+
+.headings {
+    text-align: center;
+    font-family: "UnifrakturMaguntia";
+}
+
+.title {
+    border: double gold 10px;
+    padding: 5px;
+    margin: 5px;
+    background-color: #A80D7C;
+}
+
+.menu {
+    display: flex;
+    justify-content: space-around;
+    border: solid #EFB002 4px;
+    background-color: #EFB002;
+}
+
+.minim {
+    font-family: "Cormorant Garamond";
+    color: #FEEEA7;
+    border: solid black 2px;
+    padding: 5px;
+    background: #17121F;
+}
+
+.minim:hover {
+    background: #5F1189;
+    color: #EFB002;
+}
+
+.read {
+    color: #EFB002;
+    background-color: #A80D7C;
+}
+
+.read:hover {
+    background-color: #5783BD;
+    color: #17121F;
+}
+
+.whatsThis:hover{
+   background-color: #34ebcf;
+    color: #000f40;
+}
+
+.itemDisplay {
+    border: #5783BD solid 3px;
+    padding: 5px;
+    margin: 5px;
+    background-color: #FEEEA7;
+}
+
+.itemDisplay1 {
+    display: flex;
+    justify-content: space-around;
+}
+
+.itemDisplay2 {
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+
+}
+
+.items1 {
+    font-family: "Cormorant Garamond";
+}
+
+.link {
+    width: 1000px;
+    height: 2882px;
+    border: transparent;
+}
